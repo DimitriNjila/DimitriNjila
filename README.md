@@ -1,9 +1,5 @@
 <h1 align="center">👋 Hi, I'm Dimitri Njila</h1>
-<h3 align="center">Business-minded Software Developer based in Toronto, Canada</h3>
-
-<p align="center">
-  <em>Building scalable products at the intersection of technology, design, and business.</em>
-</p>
+<h3 align="center">Software Developer based in Toronto, Canada</h3>
 
 ---
 
@@ -44,7 +40,7 @@ I’m expanding my skill set in several areas to become a more versatile and pro
 ### 🤝 Open to Collaborate
 
 I love working with other developers and entrepreneurs who share a vision for impactful software.  
-If you’re working on a **SaaS**, **AI**, or **developer tools**, let’s connect!
+If you’re working on a **SaaS** product in any industry, anything having to do with **AI**, or any other cool project, let’s connect!
 
 ---
 
@@ -52,17 +48,17 @@ If you’re working on a **SaaS**, **AI**, or **developer tools**, let’s conne
 
 - 📧 **Email:** [dimitrinjila45@gmail.com](mailto:dimitrinjila45@gmail.com)
 - 🌐 **Portfolio:** Coming soon
-- 💬 **Ask me about:** The current socio-economic state of the world 🤓, FC Barcelona and building user-focused apps
+- 💬 **Ask me about:** The current socio-economic state of the world 🤓, FC Barcelona and building user-focused apps!
 
 ---
 
 ### ⚡ Fun Fact
 
-I speak **French 🇫🇷**, and I love solving complex problems — whether they’re business challenges or Sudoku puzzles.
+I speak **French 🇫🇷** as my first language, and my current obsession is solving sudoku puzzles. 
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 My Stack
 
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -96,8 +92,3 @@ I speak **French 🇫🇷**, and I love solving complex problems — whether the
 
 ---
 
-<p align="center">
-  <i>“Building is more than just creating software solutions, it’s about understanding people, systems, and value.”</i>
-</p>
-
----
