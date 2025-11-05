@@ -11,6 +11,9 @@ I’m a developer with a business-oriented mindset, passionate about creating pr
 - Combining **software engineering** and **product thinking** to deliver real-world solutions
 - Advocate for **innovation and representation** in tech
 
+📄 [View My Resume](https://dimitrinjila.github.io/Dimitri_Njila_Resume.pdf)
+
+
 ---
 
 ### 🚀 What I’m Working On
