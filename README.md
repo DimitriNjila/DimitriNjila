@@ -7,9 +7,9 @@
 
 I’m a developer with a business-oriented mindset, passionate about creating products that are not only technically sound but strategically impactful. I enjoy taking ideas from concept to execution, bridging the gap between innovation and user value.
 
-- 🎯 Currently focused on **building meaningful, user-driven applications**
-- 💼 Combining **software engineering** and **product thinking** to deliver real-world solutions
-- 🌍 Advocate for **innovation and representation** in tech
+- Currently focused on **building meaningful, user-driven applications**
+- Combining **software engineering** and **product thinking** to deliver real-world solutions
+- Advocate for **innovation and representation** in tech
 
 ---
 
@@ -17,11 +17,11 @@ I’m a developer with a business-oriented mindset, passionate about creating pr
 
 Here’s what’s on my plate right now:
 
-- 🧠 **AI Photo Generator** – Creating a generative AI app for high-quality photo generation
-- 📅 **Scheduling App** – A productivity-focused scheduler with a smart UX
-- 🧩 **Sudoku API & AI Agent Solver** – Developing a logic-based puzzle API and intelligent solver
-- ✏️ **Sketch-to-Figma SaaS** – Turning hand-drawn sketches into Figma-ready wireframes using AI
-- 💼 **New Personal Portfolio** – Rebuilding a clean, modern, and interactive developer portfolio
+- **AI Photo Generator** – Creating a generative AI app for high-quality photo generation
+- **Scheduling App** – A productivity-focused scheduler with a smart UX
+- **Sudoku API & AI Agent Solver** – Developing a logic-based puzzle API and intelligent solver
+- **Sketch-to-Figma SaaS** – Turning hand-drawn sketches into Figma-ready wireframes using AI
+- **New Personal Portfolio** – Rebuilding a clean, modern, and interactive developer portfolio
 
 ---
 
@@ -29,11 +29,11 @@ Here’s what’s on my plate right now:
 
 I’m expanding my skill set in several areas to become a more versatile and product-oriented engineer:
 
-- 🧱 **API Design** with NestJS
-- 📱 **Mobile Development** with React Native
-- 🐳 **Containerization & Deployment** with Docker
-- ⚙️ **System Design & Scalability** for high-performance apps
-- 🤖 **AI & Automation** for developer productivity tools
+- **API Design** with NestJS
+- **Mobile Development** with React Native
+- **Containerization & Deployment** with Docker
+- **System Design & Scalability** for high-performance apps
+- **AI & Automation** for developer productivity tools
 
 ---
 
