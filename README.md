@@ -11,7 +11,11 @@ I’m a developer with a business-oriented mindset, passionate about creating pr
 - Combining **software engineering** and **product thinking** to deliver real-world solutions
 - Advocate for **innovation and representation** in tech
 
-📄 [View My Resume](https://dimitrinjila.github.io/Dimitri_Njila_Resume.pdf)
+<p>
+  <a href="https://dimitrinjila.github.io/Dimitri_Njila_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_View_My_Resume-white?style=for-the-badge" alt="Resume Badge"/>
+  </a>
+</p>
 
 
 ---
