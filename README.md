@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Dimitri Njila</h1>
-<h3 align="center">Software Developer based in Toronto, Canada</h3>
+<h3 align="center">Software Engineer based in Toronto, Canada</h3>
 
 ---
 
@@ -8,15 +8,13 @@
 I’m a developer with a business-oriented mindset, passionate about creating products that are not only technically sound but strategically impactful. I enjoy taking ideas from concept to execution, bridging the gap between innovation and user value.
 
 - Currently focused on **building meaningful, user-driven applications**
-- Combining **software engineering** and **product thinking** to deliver real-world solutions
-- Advocate for **innovation and representation** in tech
+- Advocating for **innovation and representation** in tech
 
 <p>
   <a href="https://dimitrinjila.github.io/Dimitri_Njila_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄_View_My_Resume-white?style=for-the-badge" alt="Resume Badge"/>
   </a>
 </p>
-
 
 ---
 
@@ -25,7 +23,7 @@ I’m a developer with a business-oriented mindset, passionate about creating pr
 Here’s what’s on my plate right now:
 
 - **AI Photo Generator** – Creating a generative AI app for high-quality photo generation
-- **Scheduling App** – A productivity-focused scheduler with a smart UX
+- **Scheduling App** – Restaurant Scheduler App with AI shift and schedule suggestions
 - **Sudoku API & AI Agent Solver** – Developing a logic-based puzzle API and intelligent solver
 - **Sketch-to-Figma SaaS** – Turning hand-drawn sketches into Figma-ready wireframes using AI
 - **New Personal Portfolio** – Rebuilding a clean, modern, and interactive developer portfolio
@@ -61,41 +59,12 @@ If you’re working on a **SaaS** product in any industry, anything having to do
 
 ### ⚡ Fun Fact
 
-I speak **French 🇫🇷** as my first language, and my current obsession is solving sudoku puzzles. 
+I speak **French 🇫🇷** as my first language, and my current obsession is solving sudoku puzzles.
 
 ---
 
 ### 🧰 My Stack
 
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" height="40" alt="NestJS"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="NodeJS"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
-  </a>
-</p>
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" /> <img src="https://logo.svgcdn.com/logos/supabase.svg" alt="Supabase" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firestore" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" /> </p>
 
 ---
-
