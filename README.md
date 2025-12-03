@@ -1,13 +1,15 @@
-<h1 align="center">👋 Hi, I'm Dimitri Njila</h1>
-<h3 align="center">Software Engineer based in Toronto, Canada</h3>
+<h1 align="center">👋🏿 Henlo, I'm Dimitri </h1>
+<h3 align="center">Full Stack Software Engineer </h3>
 
 ---
 
 ### 💡 About Me
 
-I’m a developer with a business-oriented mindset, passionate about creating products that are not only technically sound but strategically impactful. I enjoy taking ideas from concept to execution, bridging the gap between innovation and user value.
+I’m an engineer with a business-oriented approach to product development, passionate about creating products that are not only technically sound but strategically impactful. I enjoy taking ideas from concept to execution and I love making, and most importantly eating food.
 
-- Currently focused on **building meaningful, user-driven applications**
+Currently focused on: 
+
+- **building meaningful, user-driven applications**
 - Advocating for **innovation and representation** in tech
 
 <p>
@@ -35,8 +37,8 @@ Here’s what’s on my plate right now:
 I’m expanding my skill set in several areas to become a more versatile and product-oriented engineer:
 
 - **API Design** with NestJS
-- **Mobile Development** with React Native
 - **Containerization & Deployment** with Docker
+- **Server side Rendering** with NextJS
 - **System Design & Scalability** for high-performance apps
 - **AI & Automation** for developer productivity tools
 
@@ -52,7 +54,7 @@ If you’re working on a **SaaS** product in any industry, anything having to do
 ### 📫 Get in Touch
 
 - 📧 **Email:** [dimitrinjila45@gmail.com](mailto:dimitrinjila45@gmail.com)
-- 🌐 **Portfolio:** Coming soon
+- 🌐 **Portfolio:** https://www.dimitrinjila.com
 - 💬 **Ask me about:** The current socio-economic state of the world 🤓, FC Barcelona and building user-focused apps!
 
 ---
